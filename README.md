@@ -1,95 +1,135 @@
 <!--
 ============================================================
- GitHub Profile README
- Repo name: pavansaini596  (same as username — special repo)
- Path in that repo: README.md  (root)
- This file renders on your profile: github.com/pavansaini596
+ GitHub Profile README  —  Pavan Saini
+ Repo: pavansaini596/pavansaini596  (special profile repo)
+ Path in repo: README.md (root)
+ Renders at: https://github.com/pavansaini596
+ Structure mirrors resume for consistency across channels.
 ============================================================
 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=0D9488&center=true&vCenter=true&width=720&height=45&lines=Senior+Backend+Engineer;I+build+systems+that+don%E2%80%99t+drop+jobs.;7%2B+years+in+the+trenches+of+PHP+%26+MySQL;Laravel+%C2%B7+Redis+%C2%B7+Queues+%C2%B7+Reconciliation" alt="Typing SVG" />
+# Pavan Saini
+
+### Senior Backend Engineer
+
+**Specializing in scalable APIs & high-performance systems**
 
 <br />
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-pavansaini.com-0d9488?style=for-the-badge&labelColor=0a0a0a)](https://pavansaini.com/)
 [![Calendly](https://img.shields.io/badge/%F0%9F%93%85_Book_a_Call-30_min-2ea44f?style=for-the-badge&labelColor=0a0a0a)](https://calendly.com/pavansaini596/30min)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/pavansaini596/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pavansaini596-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/pavansaini596/)
 [![Email](https://img.shields.io/badge/Email-pavansaini596%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:pavansaini596@gmail.com)
+
+<br />
+
+📞 +91 9785684766 &nbsp;·&nbsp; 🇮🇳 India (GMT+5:30) &nbsp;·&nbsp; 🌍 Open to Remote Worldwide
 
 </div>
 
 ---
 
-### 👋 Hey, I'm Pavan
+## 👤 Profile Summary
 
-I'm a **Senior Backend Engineer** from India (GMT+5:30) with **7+ years** of shipping production systems where *correctness matters more than cleverness* — payments, wallets, reconciliation, queue pipelines, multi-vendor aggregators.
+- **Senior Backend Engineer** with **7+ years** of experience building scalable, transaction-heavy backend systems across **Healthcare and Enterprise** domains. Expertise in **PHP (Laravel, CodeIgniter)**, REST API architecture, MySQL performance optimization, aggregator platforms and secure payment integrations, booking engines, wallet systems.
 
-Most of my work is in **PHP / Laravel**, but the interesting part isn't the language — it's the 2am problems: webhooks firing three times, slot APIs going sideways during sales, ledgers drifting by ₹1,498 nobody can account for. I enjoy making those problems quietly disappear.
+- Proven ability to **reduce API latency, optimize database queries,** and deliver high-performance backend solutions for high-volume applications.
 
-Currently processing **15K+ monthly transactions** on a production healthcare aggregator, and writing a small open-source Laravel package that extracts one of the patterns I leaned on most.
-
----
-
-### 🧰 My stack — honestly grouped
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**🟢 Daily driver**  
-*reach for first, ship in prod*
-
-- PHP 8.x · Laravel · CodeIgniter
-- MySQL · Redis
-- REST APIs · Queue workers
-- Payment gateways · 3rd-party APIs
-- Docker · Linux · Git
-
-</td>
-<td valign="top" width="33%">
-
-**🟡 Comfortable**  
-*read, write, ship as needed*
-
-- JWT · OAuth · Rate limiting
-- System design · Microservices
-- Laravel Horizon · Telescope
-- Postman · Swagger · OpenAPI
-- JavaScript · jQuery · HTML/CSS
-
-</td>
-<td valign="top" width="33%">
-
-**🟠 Learning & exploring**  
-*currently deepening*
-
-- Claude API · OpenAI SDK
-- Redis Streams · Event sourcing
-- Observability (Prometheus)
-- Packagist package authoring
-- Deeper Linux / infra
-
-</td>
-</tr>
-</table>
+- Experienced in using **AI tools like ChatGPT and Claude** for development productivity and integrating AI APIs for automation and intelligent workflows.
 
 ---
 
-### 🎯 Where I do my best work
+## 💼 Organizational Experience
 
-- **Multi-tenant aggregator systems** — normalizing data from 3+ vendors into one clean API. Price matching, slot matching, inventory sync.
-- **Wallet & ledger design** — append-only ledgers, idempotent writes, daily reconciliation jobs that don't lie.
-- **Queue-driven workflows** — retries, dead-letters, idempotency keys, exponential backoff, observable by correlation id.
-- **Payment reconciliation** — webhook dedup, gateway drift detection, refund recovery.
-- **Legacy rescue** — CodeIgniter / old Laravel codebases where &ldquo;we can't touch it, it's holding together with prayers&rdquo;. Usually fixable.
+### 🟢 Interactive12 · *SpiceJet — Flebo.in & Dialer Projects* — Senior Software Developer
 
-All client work is under NDA, but I'm always happy to do a **live architecture walkthrough** on a 30-min call.
+`Feb 2023 — Present` · Full-Time
+
+**Flebo.in** (Laravel)
+- Implemented **multi-lab aggregator engine** (price, location, slot filtering)
+- Developed **wallet system** managing secure transaction ledger and reconciliation workflows
+- Integrated **3rd-party APIs** (Healthians, Redcliffe, Agilus) with sync logic
+- Designed and optimized **REST APIs handling 15K+ monthly transactions** with scalable booking workflows
+- Integrated payment gateway with booking confirmation workflow
+- Built report upload, notification & doctor consultation modules
+
+**Call Center Dialer** (Laravel)
+- Engineered **auto-dialing backend** handling bulk outbound campaigns with retry logic and structured lead lifecycle management
+- Integrated telephony APIs for outbound campaign automation
+- Implemented retry scheduling & call disposition logic
+- Built real-time call logs & performance analytics modules
+
+### TechnoCravers Pvt. Ltd., Delhi · *SpiceJet — SpiceHealth Project* — Senior Software Developer
+
+`Jan 2021 — Feb 2023` · Full-Time
+
+**SpiceHealth** (CodeIgniter)
+- **Optimized MySQL queries reducing API response time by ~30%**
+- Designed complete sample lifecycle workflow (*Booking → Collection → Processing → Report Upload*)
+- Developed role-based panels for Admin, Lab, Phlebotomist & Patients
+- Built end-to-end pathology booking platform supporting high-volume daily operations across multiple roles
+- Implemented secure payment gateway integration
+- Developed report upload system with status tracking & notifications
+
+### UWS Inc, Jaipur — Software Developer
+
+`Jun 2020 — Dec 2020` · Full-Time
+
+- **Employee Management System** — payroll, attendance tracking, reporting & data workflows
+- **News Selling Platform** — subscription-based platform with admin, buy/sell workflow & payment logic
+
+### PHP Development (Freelance) — Backend Developer
+
+`Jan 2020 — Jun 2020`
+
+- **School Management System** — attendance tracking, fee management, role-based admin panel
+
+### Ekaaksh Innovation Pvt Ltd, Jaipur — Software (PHP) Developer
+
+`Oct 2019 — Dec 2019` · Full-Time
+
+- Employee Attendance Management System; WordPress and Core PHP projects
+
+### Zrose Technology, Jaipur — Web Developer *(first role)*
+
+`Mar 2019 — Sep 2019`
+
+- **Find Doctor in Easiest Way** — Doctor Appointment Marketplace with multi-role panels (Super Admin, Doctor, Patient), slot-based scheduling
 
 ---
 
-### 🧪 What I'm building right now
+## 🛠 IT Skills
+
+| Category | Stack |
+|---|---|
+| **Backend** | PHP (Laravel, CodeIgniter), REST API Development, System Design |
+| **Database** | MySQL (Query Optimization, Indexing) |
+| **Caching & Performance** | Redis, API Optimization, Caching Strategies |
+| **Architecture** | Scalable Systems, Microservices Basics, Queue Systems (Laravel Queues, Background Jobs) |
+| **API & Security** | Authentication, Authorization, JWT, API Versioning, Rate Limiting |
+| **Integrations** | Payment Gateway Integration, Third-party APIs |
+| **Tools & Technologies** | Git, Postman, Swagger (API Documentation), Docker (Basic), Logging, Error Handling & Debugging |
+| **Deployment & Server** | Linux Basics, Hosting, cPanel / VPS |
+| **Frontend** | JavaScript, HTML, CSS, Bootstrap, AJAX, jQuery |
+| **CMS** | WordPress, Drupal |
+| **AI & Automation** | ChatGPT, Claude, AI API Integration |
+
+---
+
+## 🎓 Education
+
+**B.Tech · Computer Science Engineering**
+Rajasthan Technical University · 2016 — 2020
+
+**Training & Certification**
+- C Programming Language — Alpine Technology Pvt. Ltd., Alwar
+- Web Development Training — Zrose Technology, Jaipur *(2019)*
+
+---
+
+## 🧪 What I'm building right now
 
 > **[`laravel-idempotent-webhooks`](https://github.com/pavansaini596/laravel-idempotent-webhooks)** — a drop-in Laravel middleware that makes any webhook route idempotent.
 
@@ -100,11 +140,11 @@ Route::post('/webhooks/razorpay', [RazorpayController::class, 'handle'])
     ->middleware('idempotent:razorpay,header:X-Razorpay-Event-Id,24h');
 ```
 
-If that resonates with anyone who's ever debugged a double-charged customer at 2am — check the repo, star it, or poke a hole in it. Feedback very welcome.
+If that resonates with anyone who's ever debugged a double-charged customer — check the repo, star it, or poke a hole in it.
 
 ---
 
-### 📊 Some stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -115,34 +155,27 @@ If that resonates with anyone who's ever debugged a double-charged customer at 2
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavansaini596&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9" />
 </a>
 
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pavansaini596&theme=github-dark&hide_border=true&background=0d1117&stroke=5eead4&ring=5eead4&fire=5eead4&currStreakLabel=5eead4" height="165" />
-
 </div>
 
 ---
 
-### 💬 Let's talk
+## 💬 Let's talk
 
-I'm **open to full-time remote** backend engineering roles worldwide — healthcare, fintech, e-commerce, enterprise SaaS, or anywhere a resilient backend changes the outcome. Based in India · reasonable timezone overlap, no problem.
-
-The fastest way to reach me:
+I'm **open to full-time remote** backend engineering roles worldwide — healthcare, fintech, e-commerce, enterprise SaaS, or anywhere a resilient backend changes the outcome.
 
 | Channel | Best for |
 |---|---|
-| 🌐 [**pavansaini.com**](https://pavansaini.com/) | The full story — projects, experience, FAQ |
-| 📅 [**Book a 30-min call**](https://calendly.com/pavansaini596/30min) | Role fit, architecture walkthrough, or just a chat |
-| 📬 [**pavansaini596@gmail.com**](mailto:pavansaini596@gmail.com) | Project briefs, detailed asks |
-| 💼 [**LinkedIn**](https://www.linkedin.com/in/pavansaini596/) | Formal intros, DMs, staying in touch |
-
----
+| 🌐 [**pavansaini.com**](https://pavansaini.com/) | Full portfolio — projects, experience, FAQ |
+| 📅 [**Book a 30-min call**](https://calendly.com/pavansaini596/30min) | Role fit, architecture walkthrough, or a quick intro |
+| 📬 [**pavansaini596@gmail.com**](mailto:pavansaini596@gmail.com) | Project briefs & detailed asks |
+| 💼 [**LinkedIn**](https://www.linkedin.com/in/pavansaini596/) | Formal intros & staying in touch |
+| 📞 **+91 9785684766** | If you're in the right timezone |
 
 <div align="center">
 
-*&ldquo;The best backend engineers don't write the most code — they write the code that doesn't wake anyone up at 2am.&rdquo;*
+<br />
 
-<sub>Thanks for stopping by. If you're shipping something hard on the backend — let's talk.</sub>
+<sub>Software Development · Requirement Gathering · Database Development & Lifecycle Management</sub>
 
 <br />
 <br />
