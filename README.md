@@ -25,7 +25,7 @@
 
 <br />
 
-🇮🇳 India (GMT+5:30) &nbsp;·&nbsp; 🌍 Open to Global (Remote/Relocation) &nbsp;·&nbsp; 💼 Full-time
+🇮🇳 India (GMT+5:30) &nbsp;·&nbsp; 🌍 Open to Global (Remote / Relocation) &nbsp;·&nbsp; 💼 Full-time
 
 </div>
 
@@ -33,7 +33,7 @@
 
 ## 👤 Profile Summary
 
-- **Senior Backend Engineer** with **7+ years** of experience building scalable, transaction-heavy backend systems across **Healthcare and Enterprise** domains. Expertise in **PHP (Laravel, CodeIgniter)**, REST API architecture, MySQL performance optimization, aggregator platforms and secure payment integrations, booking engines, wallet systems.
+- **Senior Backend Engineer** with **7+ years** of experience building scalable, transaction-heavy backend systems — shipped across **Healthcare, Enterprise SaaS, and other production domains**. Expertise in **PHP (Laravel, CodeIgniter)**, REST API architecture, MySQL performance optimization, aggregator platforms, secure payment integrations, booking engines, and wallet systems — the patterns translate to fintech, e-commerce, SaaS, or anywhere correctness at scale matters.
 
 - Proven ability to **reduce API latency, optimize database queries,** and deliver high-performance backend solutions for high-volume applications.
 
@@ -161,7 +161,7 @@ If that resonates with anyone who's ever debugged a double-charged customer — 
 
 ## 💬 Let's talk
 
-I'm **open to full-time remote** backend engineering roles worldwide — healthcare, fintech, e-commerce, enterprise SaaS, or anywhere a resilient backend changes the outcome.
+I'm **open to full-time roles globally** — remote, hybrid, or on-site with relocation. Domain-agnostic: fintech, e-commerce, SaaS, AI-products, logistics, travel, developer-tools — anywhere a resilient backend changes the outcome.
 
 | Channel | Best for |
 |---|---|
