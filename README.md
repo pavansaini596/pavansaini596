@@ -25,7 +25,7 @@
 
 <br />
 
-🇮🇳 India (GMT+5:30) &nbsp;·&nbsp; 🌍 Open to Remote Worldwide &nbsp;·&nbsp; 💼 Full-time
+🇮🇳 India (GMT+5:30) &nbsp;·&nbsp; 🌍 Open to Global (Remote/Relocation) &nbsp;·&nbsp; 💼 Full-time
 
 </div>
 
