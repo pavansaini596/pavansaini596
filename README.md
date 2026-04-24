@@ -14,7 +14,7 @@
 **Senior Backend Engineer · 7+ yrs · India (GMT+5:30)**
 
 Building transaction-heavy backends for **healthcare &amp; enterprise** — Laravel · MySQL · Redis · Queues.
-Currently shipping **15K+ monthly transactions** on SpiceJet's [Flebo.in](https://flebo.in/).
+Currently shipping **15K+ monthly transactions** on a production healthcare aggregator.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pavansaini.com-0d9488?style=for-the-badge)](https://pavansaini.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavansaini596-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavansaini596/)
@@ -47,7 +47,7 @@ Learning      Claude API, OpenAI SDK, System design deepening
 
 ### 📍 Currently
 
-- 🏢 Senior Software Developer at **Interactive12** — building for SpiceJet's Flebo.in &amp; Call Center Dialer
+- 🏢 Senior Software Developer at **Interactive12** — building healthcare aggregator &amp; call-center platforms
 - 🧪 Integrating **Claude &amp; OpenAI APIs** into production workflows
 - 📝 Writing a small Laravel package — [`laravel-idempotent-webhooks`](https://github.com/pavansaini596/laravel-idempotent-webhooks) (idempotency for webhook controllers)
 
@@ -69,6 +69,6 @@ Open to **full-time remote** backend engineering roles worldwide — healthcare,
 - 📬 **Email** → [info@pavansaini.com](mailto:info@pavansaini.com)
 - 💼 **LinkedIn** → [/in/pavansaini596](https://www.linkedin.com/in/pavansaini596/)
 
-<div align="center"> 
+<div align="center">
 <sub>If you're shipping something hard on the backend — let's talk.</sub>
 </div>
