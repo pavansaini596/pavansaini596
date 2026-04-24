@@ -25,7 +25,7 @@
 
 <br />
 
-📞 +91 9785684766 &nbsp;·&nbsp; 🇮🇳 India (GMT+5:30) &nbsp;·&nbsp; 🌍 Open to Remote Worldwide
+🇮🇳 India (GMT+5:30) &nbsp;·&nbsp; 🌍 Open to Remote Worldwide &nbsp;·&nbsp; 💼 Full-time
 
 </div>
 
@@ -169,7 +169,6 @@ I'm **open to full-time remote** backend engineering roles worldwide — healthc
 | 📅 [**Book a 30-min call**](https://calendly.com/pavansaini596/30min) | Role fit, architecture walkthrough, or a quick intro |
 | 📬 [**pavansaini596@gmail.com**](mailto:pavansaini596@gmail.com) | Project briefs & detailed asks |
 | 💼 [**LinkedIn**](https://www.linkedin.com/in/pavansaini596/) | Formal intros & staying in touch |
-| 📞 **+91 9785684766** | If you're in the right timezone |
 
 <div align="center">
 
