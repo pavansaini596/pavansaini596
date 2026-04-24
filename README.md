@@ -18,7 +18,7 @@ Currently shipping **15K+ monthly transactions** on a production healthcare aggr
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pavansaini.com-0d9488?style=for-the-badge)](https://pavansaini.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavansaini596-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavansaini596/)
-[![Email](https://img.shields.io/badge/Email-info%40pavansaini.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pavansaini.com)
+[![Email](https://img.shields.io/badge/Email-pavansaini596%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavansaini596@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20Worldwide-2ea44f?style=for-the-badge)](https://pavansaini.com/#contact)
 
 </div>
@@ -66,7 +66,7 @@ Open to **full-time remote** backend engineering roles worldwide — healthcare,
 
 - 🌐 **Portfolio** → [pavansaini.com](https://pavansaini.com/)
 - 📅 **Book a 30-min call** → [calendly.com/pavansaini596/30min](https://calendly.com/pavansaini596/30min)
-- 📬 **Email** → [info@pavansaini.com](mailto:info@pavansaini.com)
+- 📬 **Email** → [pavansaini596@gmail.com](mailto:pavansaini596@gmail.com)
 - 💼 **LinkedIn** → [/in/pavansaini596](https://www.linkedin.com/in/pavansaini596/)
 
 <div align="center">
